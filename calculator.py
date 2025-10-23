@@ -1,3 +1,5 @@
+## A simple calculator program in Python
+
 import math
 
 def add(a, b):
